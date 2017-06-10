@@ -1,0 +1,17 @@
+doctype html
+//- head file
+head(lang=config.language)
+  include head.pug
+
+//- index main
+body
+  #layout.pure-g
+    //- sidebar
+    .sidebar.pure-u-1.pure-u-md-1-4
+      block sidebar
+
+    //- content
+    .content.pure-u-1.pure-u-md-3-4
+      div
+        block content
+        include copyright.pug

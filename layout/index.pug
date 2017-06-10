@@ -1,0 +1,7 @@
+extends partial/layout.pug
+
+block sidebar
+  include partial/sidebar.pug
+block content
+  include mixins/post.pug
+  +posts()

@@ -1,0 +1,39 @@
+menu:
+  Home: /
+  Archive: /archives/
+  Books: /books/
+
+favicon: /favicon.png
+logo: /logo.jpg
+
+# index information
+info: "以前是有病，追求爱情。现在病好了，只喜欢钱。"
+# social
+social: [{
+        t: 'Sina',
+        v: 'http://weibo.com'
+    },
+    {
+        t: 'Twitter',
+        v: 'https://twitter.com'
+    },
+    {
+        t: 'Twitter',
+        v: 'https://twitter.com'
+    },
+    {
+        t: 'Twitter',
+        v: 'https://twitter.com'
+    }
+]
+
+# Comment# e.g disqus: seansun
+disqus:
+    duoshuo:
+    cloudTie:
+
+#Analytics# google - analytics:
+ga: UA - 65933410 - 1
+
+# Copyright Infomation
+startyear: 2015
